@@ -1,7 +1,9 @@
-import React from "react";
+import React from 'react';
 
-const CounterButton = ({ clickHandler }) => {
-  return <button onClick={clickHandler}>Increment</button>;
+const CounterButton = ({increment}) => {
+    return (
+        <button onClick={increment}>Increment</button>
+    );
 };
 
 export default CounterButton;
