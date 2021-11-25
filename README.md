@@ -6,6 +6,7 @@ Demonstrate props drilling
 <li>A way to pass data between components in React</li>
 <li>The data - props is passed ALWAYS from father componet to its children</li>
 <li>Props can contain information like number , object but also a function which typically set state</li>
+<li>check this visual represntation in schema.png</li>
 </ul>
 
 <h2>Components</h2>
